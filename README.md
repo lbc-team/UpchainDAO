@@ -26,7 +26,7 @@
 ## 社区历史
 我们将社区历史分为三个阶段
 
-2017-2022年几年间我们以技术博客，登链社区网站建立开发者的交流，在这里我们把它叫做[未 DAO 时期]()
+2017-2022年几年间我们以技术博客，登链社区网站建立开发者的交流，在这里我们把它叫做[未 DAO 时期](https://github.com/lbc-team/UpchainDAO/blob/main/%E6%9C%AA%20DAO%20%E6%97%B6%E6%9C%9F%E4%B8%8E%E8%B4%A1%E7%8C%AE%E8%AE%B0%E5%BD%95.md)
 
 2023年，我们开始将登链社区转化为 DAO，我们把 DAO 化的阶段称作[循 DAO 时期](https://github.com/lbc-team/UpchainDAO/blob/main/%E5%BE%AA%20DAO%20%E8%BF%9B%E5%B1%95%E4%B8%8E%E8%B4%A1%E7%8C%AE%E5%80%BC.md)
 
