@@ -1,5 +1,7 @@
 # UpchainDAO
 
+[参与贡献](https://github.com/orgs/lbc-team/discussions/3)  |  [更多细则/说明/公示信息](https://github.com/lbc-team/UpchainDAO/discussions)
+
 2023年，我们的主要目标是将登链社区转化为一个真正的 DAO - UpchainDAO。
 
 ## 我们心中的 UpchainDAO 是这样的：
@@ -32,4 +34,4 @@
 
 真正的 UpchainDAO 阶段称作[践 DAO 时期]()
 
-[参与贡献](https://github.com/orgs/lbc-team/discussions/3)  |  [更多细则/说明/公示信息](https://github.com/lbc-team/UpchainDAO/discussions)
+
