@@ -32,4 +32,4 @@
 
 真正的 UpchainDAO 阶段称作[践 DAO 时期]()
 
-[参与贡献](https://github.com/orgs/lbc-team/discussions/3)
+[参与贡献](https://github.com/orgs/lbc-team/discussions/3)  |  [更多细则/说明/公示信息](https://github.com/lbc-team/UpchainDAO/discussions)
