@@ -2,7 +2,7 @@
 
 [参与贡献](https://github.com/orgs/lbc-team/discussions/3)  |  [更多细则/说明/公示信息](https://github.com/lbc-team/UpchainDAO/discussions)
 
-2023年，我们的主要目标是将登链社区转化为一个真正的 DAO - UpchainDAO。
+2023年，我们的主要目标是将登链社区升级为 UpchainDAO。
 
 ## 我们心中的 UpchainDAO 是这样的：
 
@@ -12,10 +12,10 @@
 
 ***形成一个相互信任的开发者网络。***
 
-解决当下由于缺乏可信背景数据而需要耗费大量的人力物力来做能力自证和发现人才的问题，为 Web3 迎来普惠应用爆发奠定基础。
+解决当下由于缺乏可信背景数据而需要耗费大量的人力物力来做能力自证和发现人才的问题，用 web3.0 技术支持开发者在网络上按需展示可信的个人信息。
 
----
-3个主要产品协同发展，共同构建互信的开发者网络
+
+### 3个主要产品协同发展，共同构建互信的开发者网络
 
 ![image](https://github.com/lbc-team/UpchainDAO/assets/68583807/ac31be81-370c-4ebb-91f1-73f7bd8a2e84)
 
@@ -26,12 +26,11 @@
 * [DeTask](https://detask.xyz) 基于链上的可信数据，通过智能合约建立开发者与需求方的信任桥梁，再将合作记录作为信用在链上存证。共同构建一个相互信任的开发者网络。
 
 ## 社区历史
-我们将社区历史分为三个阶段
 
-2017-2022年几年间我们以技术博客，登链社区网站建立开发者的交流，在这里我们把它叫做[未 DAO 时期](https://github.com/orgs/lbc-team/discussions/1)
+2017-2022年几年间我们以技术博客、登链社区网站为基础建立开发者的交流，我们可以把这个阶段叫做[登链社区时期](https://github.com/orgs/lbc-team/discussions/1)
 
-2023年，我们开始将登链社区转化为 DAO，我们把 DAO 化的阶段称作[循 DAO 时期](https://github.com/orgs/lbc-team/discussions/2)
+2023年，我们开始围绕三个主要产品构建 UpchainDAO，开启[ UpchainDAO 时期](https://github.com/orgs/lbc-team/discussions/2)
 
-真正的 UpchainDAO 阶段称作[践 DAO 时期]()
+[UpchainDAO 建设进展](https://github.com/orgs/lbc-team/discussions/2)
 
 
