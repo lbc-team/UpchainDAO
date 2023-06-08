@@ -2,7 +2,7 @@
 
 [参与贡献](https://github.com/orgs/lbc-team/discussions/3)  |  [更多细则/说明/公示信息](https://github.com/lbc-team/UpchainDAO/discussions)
 
-2023年，我们的主要目标是将登链社区升级为 UpchainDAO。
+2023年，我们的主要目标是将登链社区升级为 UpchainDAO ，社区工作将进一步去中心化。
 
 ## 我们心中的 UpchainDAO 是这样的：
 
@@ -21,16 +21,16 @@
 
 * [DeCert](https://decert.me/) 为改变填鸭式教育方式，解决单一的评估体系而构建，利用 AI 实现一对一的交互式学习、测评和提供实时的改进意见，通过区块链记录每一次学习和测评，形成真实的个人能力证明。接入链上社交图谱，提供多维度背景证明。
 
-* 0xDev 用 web3.0 理念，构建全新的共建、共享、共治的内容社区，让内容的控制权回归作者，让用户成为社区的主人，共同捕获平台价值。以内容为纽带，构建有温度、强链接的人才网络。[登链社区](https://learnblockchain.cn/)会是使用 0xDev 教育协议的先行者。
+* [登链社区](https://learnblockchain.cn/) 用 web3.0 理念，构建共建、共享、共治的内容社区，让内容的控制权回归作者，让用户成为社区的主人，共同捕获平台价值。以内容为纽带，构建有温度、强链接的人才网络。
 
-* [DeTask](https://detask.xyz) 基于链上的可信数据，通过智能合约建立开发者与需求方的信任桥梁，再将合作记录作为信用在链上存证。共同构建一个相互信任的开发者网络。
+* [DeTask](https://detask.xyz) 基于链上的可信数据，通过智能合约建立开发者与需求方的信任桥梁，再将合作记录作为信用在链上存证。共同构建一个相互信任的开发者网络。(产品还没有正式上线)
 
 ## 社区历史
 
-2017-2022年几年间我们以技术博客、登链社区网站为基础建立开发者的交流，我们可以把这个阶段叫做[登链社区时期](https://github.com/orgs/lbc-team/discussions/1)
+2017-2022年几年间我们以技术博客、登链社区网站为基础建立开发者的交流
 
-2023年，我们开始围绕三个主要产品构建 UpchainDAO，开启[ UpchainDAO 时期](https://github.com/orgs/lbc-team/discussions/2)
+2022年我们着手筹备并构建chaintool、decert、detask三个相互协作的产品
 
-[UpchainDAO 建设进展](https://github.com/orgs/lbc-team/discussions/2)
+2023年，我们继续以登链社区为核心，努力践行合规的去中心化思想，继续升级社区
 
 
